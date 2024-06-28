@@ -6,4 +6,4 @@ modification
 
 line added in vnext-release
 
-other line added in vnext-release
+other line added in vnext-release and modified
