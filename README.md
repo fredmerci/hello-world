@@ -7,3 +7,8 @@ modification
 line added in vnext-release
 
 other line added in branch vnext-release and modified
+
+
+user=abc
+password=123
+
